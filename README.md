@@ -1,7 +1,7 @@
 ## I do coding... i guess. Yep that's what i do
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&duration=1800&color=9CA3AF&center=true&vCenter=true&width=700&lines=i+do+coding...;i+do+coding+and...;i+do+coding+and+programming...;i+do+coding+and+programming...+i+guess" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=0&duration=1800&color=9CA3AF&center=true&vCenter=true&width=700&lines=i+do+coding+...+i+guess" />
 </p>
 
 <!--
